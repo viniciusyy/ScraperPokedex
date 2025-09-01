@@ -7,11 +7,6 @@ Este projeto coleta dados do Pokédex do site **pokemondb.net** e produz JSONs l
 - Próximas evoluções (número, nome, URL, level se houver e item se houver)
 - Efetividade de cada tipo **sobre** o Pokémon (tabela de multiplicadores por tipo atacante)
 
-## ⚠️ Aviso de uso responsável
-- O scraper respeita `robots.txt` (config padrão do Scrapy) e usa AutoThrottle + delay. Ainda assim, execute com moderação.
-- Todo código é **apenas educacional**. Verifique termos do site antes de uso contínuo.
-
----
 
 ## Estrutura
 
